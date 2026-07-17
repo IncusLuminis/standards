@@ -1,6 +1,6 @@
-# {{PROJECT_NAME}}
+# standards
 
-> {{PROJECT_DESCRIPTION}}
+> Organization-wide engineering standards, architecture decisions and technical specifications.
 
 ---
 
